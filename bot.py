@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 19 21:43:08 2022
 
-@author: Samsung
+@author: HS Feruz
 """
 
 from transliterator import to_latin, to_cyrillic
