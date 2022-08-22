@@ -2,7 +2,7 @@
 """
 Created on Fri Aug 19 21:33:59 2022
 
-@author: Samsung
+@author: HS Feruzbek
 """
 
 # -*- coding: utf-8 -*-
