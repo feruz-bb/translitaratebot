@@ -8,7 +8,7 @@ Created on Fri Aug 19 21:43:08 2022
 from transliterator import to_latin, to_cyrillic
 import telebot
 
-TOKEN = '5614677871:AAEehRnMi0Vk39QKzNuCmqHwxhyy8a75o-4'
+TOKEN = ' //Please your TOKEN// '
 
 bot = telebot.TeleBot(TOKEN)
 
